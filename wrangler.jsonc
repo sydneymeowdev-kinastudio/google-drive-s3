@@ -13,11 +13,11 @@
     "kv_namespaces": [
         {
             "binding": "AUTH_KV",
-            "id": "ba953a1ce2cd41a7ba1d348075d34171"
+            "id": "22f2ce910c184010be532822c79414b3"
         },
         {
             "binding": "FOLDER_CACHE",
-            "id": "6332b0674a8342e4b270ca3368d3c52a"
+            "id": "10752b2d1b1d406e9bffa743a03da8be"
         }
     ]
     /**
